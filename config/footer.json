@@ -12,21 +12,8 @@
       "bold": true
     },
     {
-      "title": "Privacy Policy",
-      "url": "/pages/privacy",
-      "bold": true
-    },
-    {
       "title": "About Uploading",
       "url": "/pages/uploading"
-    },
-    {
-      "title": "Takedown Requests",
-      "url": "/pages/takedowns"
-    },
-    {
-      "title": "Do-Not-Post List",
-      "url": "/dnp"
     }
   ],
   "Help & Information": [
@@ -42,21 +29,12 @@
       "target": "_blank"
     },
     {
-      "title": "FAQs",
-      "url": "/pages/faq",
-      "bold": true
-    },
-    {
       "title": "API Docs",
       "url": "/pages/api"
     },
     {
       "title": "Keyboard Shortcuts",
       "url": "/pages/shortcuts"
-    },
-    {
-      "title": "Advertising",
-      "url": "/pages/advertising"
     },
     {
       "title": "About",
@@ -70,26 +48,12 @@
       "bold": true
     },
     {
-      "title": "Donations",
-      "url": "/pages/donations",
-      "bold": true
-    },
-    {
       "title": "Site Staff List",
       "url": "/staff"
     },
     {
       "title": "Statistics",
       "url": "/pages/stats"
-    },
-    {
-      "title": "Discord Server",
-      "url": "/pages/discord"
-    },
-    {
-      "title": "Bluesky",
-      "url": "https://bsky.app/profile/furbooru.org",
-      "target": "_blank"
     }
   ]
 }
