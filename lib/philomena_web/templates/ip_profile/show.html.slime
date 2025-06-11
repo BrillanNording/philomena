@@ -24,7 +24,7 @@ ul
 
   li = link "View reports this IP has made", to: ~p"/admin/reports?#{[rq: "ip:#{@ip}"]}"
   li = link "View IP ban history", to: ~p"/admin/subnet_bans?#{[ip: to_string(@ip)]}"
-  li = link "Ban this sucker", to: ~p"/admin/subnet_bans/new?#{[specification: to_string(@ip)]}"
+  li = link "Ban", to: ~p"/admin/subnet_bans/new?#{[specification: to_string(@ip)]}"
 
 h2 Actions
 ul

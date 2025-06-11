@@ -15,7 +15,7 @@ ul
   li = link "View source URL history", to: ~p"/fingerprint_profiles/#{@fingerprint}/source_changes"
   li = link "View reports this fingerprint has made", to: ~p"/admin/reports?#{[rq: "fingerprint:#{@fingerprint}"]}"
   li = link "View fingerprint ban history", to: ~p"/admin/fingerprint_bans?#{[fingerprint: @fingerprint]}"
-  li = link "Ban this sucker", to: ~p"/admin/fingerprint_bans/new?#{[fingerprint: @fingerprint]}"
+  li = link "Ban", to: ~p"/admin/fingerprint_bans/new?#{[fingerprint: @fingerprint]}"
 
 h2 Actions
 ul

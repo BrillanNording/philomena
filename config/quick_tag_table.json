@@ -3,14 +3,14 @@
     "Main",
     "Species",
     "Franchises",
-    "Sexual Interactions",
+    "Interactions",
     "Misc."
   ],
   "tab_modes": {
     "Main": "default",
     "Species": "default",
     "Franchises": "default",
-    "Sexual Interactions": "default",
+    "Interactions": "default",
     "Misc.": "default"
   },
   "Main": {
@@ -137,7 +137,7 @@
       "warrior cats"
     ]
   },
-  "Sexual Interactions": {
+  "Interactions": {
     "Orientations": [
       "male/female",
       "male/male",
@@ -196,18 +196,6 @@
       "tail",
       "multiple tails"
     ],
-    "NSFW": [
-      "penis",
-      "vulva",
-      "breasts",
-      "nipples",
-      "vaginal secretions",
-      "cum",
-      "erection",
-      "balls",
-      "animal genitalia",
-      "sex"
-    ],
     "Eye Colors 1": [
       "amber eyes",
       "black eyes",
@@ -255,7 +243,6 @@
       "simple background",
       "abstract background",
       "gradient background",
-      "scenery porn",
       "transparent background",
       "white background"
     ],
